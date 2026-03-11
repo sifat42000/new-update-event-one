@@ -11,7 +11,7 @@ export const BUSINESS_INFO: BusinessInfo = {
   phones: ["01717445854", "01825052535"],
   whatsapp: "01717445854",
   email: "bondhuttoflowerhouse@gmail.com",
-  facebook: "https://www.facebook.com/profile.php?id=100063945444854", // Placeholder or real if known
+  facebook: "https://www.facebook.com/weddingplanningcd",
 };
 
 const commonPackages = [
