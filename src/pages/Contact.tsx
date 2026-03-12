@@ -69,7 +69,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <p className="text-sm text-gray-500 font-medium uppercase tracking-wider">Email Address</p>
-                    <p className="text-xl font-bold text-gray-900">{BUSINESS_INFO.email}</p>
+                    <p className="text-xl font-bold text-gray-900 break-words break-all max-w-full overflow-wrap-anywhere">{BUSINESS_INFO.email}</p>
                   </div>
                 </div>
 
